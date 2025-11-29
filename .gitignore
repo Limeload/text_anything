@@ -1,0 +1,34 @@
+.venv/
+env/
+venv/
+
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+.DS_Store
+.pytest_cache/
+.mypy_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+.idea/
+.vscode/
+
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local environment files
+.env
+.env.*
+
+# Generated leaderboard outputs
+leaderboard_sorted.csv
+leaderboard_sorted.xlsx
+leaderboard_sorted.json
+
+

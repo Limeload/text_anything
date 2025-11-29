@@ -1,0 +1,27 @@
+[
+  {
+    "zone_id": "zone_1",
+    "name": "Downtown",
+    "min_lat": 37.7749,
+    "max_lat": 37.7849,
+    "min_lng": -122.4194,
+    "max_lng": -122.4094
+  },
+  {
+    "zone_id": "zone_2",
+    "name": "Airport",
+    "min_lat": 37.6213,
+    "max_lat": 37.6313,
+    "min_lng": -122.3789,
+    "max_lng": -122.3689
+  },
+  {
+    "zone_id": "zone_3",
+    "name": "North District",
+    "min_lat": 37.8000,
+    "max_lat": 37.8100,
+    "min_lng": -122.4000,
+    "max_lng": -122.3900
+  }
+]
+
