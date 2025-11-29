@@ -99,4 +99,4 @@ This will read `leaderboard_ranker/leaderboard.xlsx` and write the sorted output
 
 For more details (data cleaning, sorting rules, countback algorithm, example tie resolution, and suggested median-score tiebreaker), see `leaderboard_ranker/README.md`.
 
-# text_anything
+
